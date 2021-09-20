@@ -30,6 +30,8 @@ The original game has 5 colors and 4 possible combinations, this remake has **9 
 ## Open Source!
 This is an **Open Source** project which means that you can download this code and execute it on the Unity Engine. This project was compiled with Unity 2020.3.17f1
 
+[Scripts Used](Assets/Scripts)
+
 ---
 ## Credits
 Mastermind Unity Remake - by Sebastian Toro
